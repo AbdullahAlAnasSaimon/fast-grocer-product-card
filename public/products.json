@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "product_category": "Vegetables",
+    "product_name": "Coriander Leaves (Dhonia Pata)",
+    "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DvDnbmH2M_zZnjKB7x1QrsBZaQp7sxPV5RkvtiSxenBPIN5j-NzIX8xNZ7D-Go65owQ&usqp=CAU",
+    "product_price": 10,
+    "product_mesurement": "100gm",
+    "product_ratings": 5
+  },
+  {
+    "id": 2,
+    "product_category": "Vegetables",
+    "product_name": "Coriander Leaves (Dhonia Pata)",
+    "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DvDnbmH2M_zZnjKB7x1QrsBZaQp7sxPV5RkvtiSxenBPIN5j-NzIX8xNZ7D-Go65owQ&usqp=CAU",
+    "product_price": 10,
+    "product_mesurement": "100gm",
+    "product_ratings": 5
+  },
+  {
+    "id": 3,
+    "product_category": "Vegetables",
+    "product_name": "Coriander Leaves (Dhonia Pata)",
+    "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DvDnbmH2M_zZnjKB7x1QrsBZaQp7sxPV5RkvtiSxenBPIN5j-NzIX8xNZ7D-Go65owQ&usqp=CAU",
+    "product_price": 10,
+    "product_mesurement": "100gm",
+    "product_ratings": 5
+  },
+  {
+    "id": 4,
+    "product_category": "Vegetables",
+    "product_name": "Coriander Leaves (Dhonia Pata)",
+    "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DvDnbmH2M_zZnjKB7x1QrsBZaQp7sxPV5RkvtiSxenBPIN5j-NzIX8xNZ7D-Go65owQ&usqp=CAU",
+    "product_price": 10,
+    "product_mesurement": "100gm",
+    "product_ratings": 5
+  }
+]
